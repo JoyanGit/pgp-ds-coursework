@@ -1,0 +1,19 @@
+name: binder-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pandas
+  - math
+  - numpy
+  - faker
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - ipywidgets
+  - statsmodels
+  - datetime
+  - dateutil
+  - pytz
