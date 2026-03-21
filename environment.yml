@@ -5,15 +5,9 @@ channels:
 
 dependencies:
   - python=3.11
-  - pandas
-  - math
   - numpy
-  - faker
-  - ipython
-  - jupyterlab
+  - pandas
   - matplotlib
-  - ipywidgets
-  - statsmodels
-  - datetime
-  - dateutil
-  - pytz
+  - seaborn
+  - scikit-learn
+  - python-dateutil
