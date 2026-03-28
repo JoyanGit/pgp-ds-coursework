@@ -12,3 +12,7 @@ dependencies:
   - scikit-learn
   - python-dateutil
   - faker
+  - papermill
+  - netowrkx
+  - plotly
+  - graphviz
